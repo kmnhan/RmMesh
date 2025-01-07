@@ -4,7 +4,7 @@
 
 ## Requirements
 Python 3 packages:
-- PyQt5
+- qtpy
 - pyqtgraph
 - scipy
 - numpy
