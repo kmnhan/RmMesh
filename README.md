@@ -3,8 +3,11 @@
 ![RmMesh GUI](gui.png)
 
 ## Requirements
+
 Python 3 packages:
+
 - qtpy
+- One of PyQt5, PySide2, PyQt6, or PySide6
 - pyqtgraph
 - scipy
 - numpy
@@ -36,4 +39,4 @@ Use **Finish** to apply the mesh pattern to all the images.
 
 ### Advanced methods
 
-After clicking **Mesh Pattern**, use **Data->Optimize mesh template** menu to improve the quality of the mesh pattern. 
+After clicking **Mesh Pattern**, use **Data->Optimize mesh template** menu to improve the quality of the mesh pattern.
